@@ -1,4 +1,4 @@
-package com.linear;
+package com.AlgorithmDemo.linear;
 /*检查链表是否有环操作*/
 public class CircleListCheckTest {
 

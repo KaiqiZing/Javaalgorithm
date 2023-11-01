@@ -1,4 +1,4 @@
-package com.linear;
+package com.AlgorithmDemo.linear;
 /*有环的情况下查到环的链表环的入口在哪
 * */
 public class CircleListInTest {

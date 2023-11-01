@@ -1,4 +1,4 @@
-package com.linear.stackDemo;
+package com.AlgorithmDemo.linear.stackDemo;
 /*逆波兰表达式*/
 public class ReversePolishNotationTest {
     public static void main(String[] args) {

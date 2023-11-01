@@ -1,6 +1,4 @@
-package com.linear.stackDemo;
-
-import com.linear.stackDemo.Stack;
+package com.AlgorithmDemo.linear.stackDemo;
 
 public class StackTest1 {
     public static void main(String[] args) {

@@ -1,9 +1,9 @@
-package com.linear;
+package com.AlgorithmDemo.linear;
 
-public class TowWayLinkListTest {
+public class LinkListTest {
     public static void main(String[] args) {
-        //创建双向链表对象
-        TowWayLinkList<String> sl = new TowWayLinkList<>();
+        //创建顺序表对象
+        LinkList<String> sl = new LinkList<>();
         //测试插入
         sl.insert("姚明");
         sl.insert("科比");
@@ -13,10 +13,6 @@ public class TowWayLinkListTest {
         for (String s : sl) {
             System.out.println(s);
         }
-
-        System.out.println("--------------------------------------");
-        System.out.println("第一个元素是："+sl.getFirst());
-        System.out.println("最后一个元素是："+sl.getLast());
 
         System.out.println("------------------------------------------");
 
@@ -29,7 +25,5 @@ public class TowWayLinkListTest {
         //测试清空
         sl.clear();
         System.out.println("清空后的线性表中的元素个数为:"+sl.length());
-
-
     }
 }

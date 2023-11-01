@@ -1,4 +1,4 @@
-package com.linear;
+package com.AlgorithmDemo.linear;
 
 import sun.applet.AppletResourceLoader;
 

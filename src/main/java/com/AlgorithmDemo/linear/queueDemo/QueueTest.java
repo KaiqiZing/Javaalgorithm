@@ -1,4 +1,4 @@
-package com.linear.queueDemo;
+package com.AlgorithmDemo.linear.queueDemo;
 
 public class QueueTest {
 

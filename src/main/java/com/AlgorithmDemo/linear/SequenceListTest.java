@@ -1,9 +1,12 @@
-package com.linear;
+package com.AlgorithmDemo.linear;
 
-public class LinkListTest {
+/*顺序表的实现过程
+* */
+public class SequenceListTest {
+
     public static void main(String[] args) {
         //创建顺序表对象
-        LinkList<String> sl = new LinkList<>();
+        SequenceList<String> sl = new SequenceList<>(10);
         //测试插入
         sl.insert("姚明");
         sl.insert("科比");
@@ -26,4 +29,5 @@ public class LinkListTest {
         sl.clear();
         System.out.println("清空后的线性表中的元素个数为:"+sl.length());
     }
+
 }

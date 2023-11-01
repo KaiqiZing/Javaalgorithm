@@ -1,4 +1,4 @@
-package com.linear.stackDemo;
+package com.AlgorithmDemo.linear.stackDemo;
 
 import java.util.Iterator;
 

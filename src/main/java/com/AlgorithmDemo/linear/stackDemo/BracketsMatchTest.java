@@ -1,4 +1,4 @@
-package com.linear.stackDemo;
+package com.AlgorithmDemo.linear.stackDemo;
 
 public class BracketsMatchTest {
     public static void main(String[] args) {

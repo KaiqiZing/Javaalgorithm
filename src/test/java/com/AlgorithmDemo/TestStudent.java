@@ -10,7 +10,7 @@ public class TestStudent {
 
     public static void main(String[] args) {
 
-        // 累加计算
+/*        // 累加计算
         for (int i = -5; i < 5; i++) {
            // System.out.println("累加计算："+ i);
 
@@ -21,7 +21,12 @@ public class TestStudent {
             i++;
         }else {
             return;
-        }
+        }*/
+        int k =5;
+      while (k>1){
+          System.out.println(k);
+          k = k/2;
+      }
 /*
 
         for (int i = 5; i >0 ; i--) {
